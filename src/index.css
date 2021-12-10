@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(116, 116, 116);
+    color: #fff;
+    font-size: 1.4rem;
+    text-align: center;
+    font-family: Helvetica, Arial;
+
+    background: #ff00cc;
+    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #333399, #ff00cc);
+
+}
+
+    h1, h2 {
+    font-weight: 300;
+    
+}
